@@ -22,7 +22,7 @@ First, sign in to the [IBM Cloud](https://cloud.ibm.com) and then navigate to th
 ![](images/ibm-cloud-dashboard.png)
 
 ### Install an OpenShift cluster
-The first step to creating an instance of Open Data Hub is to install a Red Hat OpenShift cluster. I recommend using OpenShift v4.x as opposed to v3.x as the operators needed in the steps below are already included.
+The first step to creating an instance of Open Data Hub is to install a Red Hat OpenShift cluster. I recommend using OpenShift v4.x as opposed to v3.x as the [operators](https://operatorhub.io/) needed in the steps below are already included.
 
 Click on the catalog tile labeled **Red Hat OpenShift Cluster**
 
