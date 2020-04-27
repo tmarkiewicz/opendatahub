@@ -3,7 +3,7 @@
 ## Overview
 In this tutorial, we'll walk through installing Open Data Hub on Red Hat OpenShift all through the IBM Cloud.
 
-The Open Data Hub site has a tutorial that I based this on, but for clarity I added additional instructions and context on many of the steps. For reference, the official getting started tutorial is here: https://opendatahub.io/docs/getting-started/quick-installation.html
+The Open Data Hub site has a tutorial I based this on, but for clarity I added additional instructions and context on many of the steps. For reference, the official getting started tutorial is here: https://opendatahub.io/docs/getting-started/quick-installation.html
 
 1. Install Red Hat OpenShift from IBM Cloud
 2. Install Open Data Hub on OpenShift
@@ -62,7 +62,7 @@ https://console-openshift-console.opendatahub-tmarkiewicz-442dbba0442be6c8c50f31
 Congrats, you now have a working Red Hat OpenShift cluster! Let's move on to installing Open Data Hub on this cluster.
 
 ## Open Data Hub
-What is Open Data Hub? Essentially, it's an end-to-end AI/ML platform, that is trying to provide an open source tool for every step in the AI/ML workflow. Open Dtaa Hub is based on open source projects including Jupyterhub, Apache Spark, Seldon, Prometheus, Grafana, and Argo.
+What is Open Data Hub? Essentially, it's an end-to-end AI/ML platform, that's trying to provide an open source tool for every step in the AI/ML workflow. Open Data Hub is based on open source projects including JupyterHub, Apache Spark, Seldon, Prometheus, Grafana, and Argo.
 
 From the [Open Data Hub](https://opendatahub.io/) site:
 
